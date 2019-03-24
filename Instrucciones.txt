@@ -1,0 +1,9 @@
+Instrucciones.
+
+El archivo a ejecutar se llama "actividad1.js"
+
+Si se desean ver los cursos que hay se debe entrar al cmd de windows e ir a la carpeta donde coloco el archivo. Una vez ahi ejecute el archivo asi: "node actividad1".
+
+Si se desea inscribir en algun curso, se debe entrar al cmd de windows e ir a la carpeta donde coloco el archivo. Una vez ahi ejecute el archivo asi : "node actividad1 inscribir -i='id del curso' -n='nombre del usuario' -c='cedula del usuario'".
+
+Para acceder a nivel web se necesitara tener express y los resultados seran vistos en el puerto 3000 del localhost.
